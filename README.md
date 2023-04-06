@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React ContactList Management App
 
 
 ![2023-04-06 09-31-18 (online-video-cutter](https://user-images.githubusercontent.com/86143301/230272710-87f6e81f-ee84-4be5-ab7b-476b412cae73.gif)
@@ -12,7 +10,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * Delete a contact, make a DELETE call to the above url. (Again this is a dummy call).
 
 
+**How To Use**
+  * To Use this contactlist management app the link https://wakininja.github.io/react-contactlist-management/ to see this ContactList live & play with it simple :)
+  
+  
+**Web Technologies Used** 
+* CSS  
+* JavaScript
+* ReactJs
 
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
