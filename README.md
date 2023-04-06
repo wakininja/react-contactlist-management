@@ -2,6 +2,18 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+![2023-04-06 09-31-18 (online-video-cutter](https://user-images.githubusercontent.com/86143301/230272710-87f6e81f-ee84-4be5-ab7b-476b412cae73.gif)
+
+***Features***
+* Fetch and show users from the api - https://jsonplaceholder.typicode.com/users
+* Add a contact, make a POST call to the above url (from where you are fetching) and save the contact in react state. (This will be a dummy request, you won’t be able to add contacts to the server. But the request is valid and will send you some data. Read the guide).
+* Update a contact, make a PUT call to the above url. (Again this is a dummy call).
+* Delete a contact, make a DELETE call to the above url. (Again this is a dummy call).
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
